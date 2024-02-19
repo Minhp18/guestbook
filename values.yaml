@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io/heptio-images/ks-guestbook-demo
-  tag: 0.1
+  repository: locvx1234/simple-guestbook
+  tag: c22a15d6
   pullPolicy: IfNotPresent
 
 containerPort: 80
