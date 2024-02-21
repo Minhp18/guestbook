@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: locvx1234/simple-guestbook
-  tag: c22a15d6
+  tag: 29daf28e
   pullPolicy: IfNotPresent
 
 containerPort: 80
